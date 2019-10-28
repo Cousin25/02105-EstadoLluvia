@@ -21,11 +21,10 @@ package org.japo.java.main;
  */
 public class Main {
 
-    
     public static void main(String[] args) {
         System.out.println("Hoy está lloviendo:");
         System.out.println("true");
-        
+
     }
-    
+
 }
